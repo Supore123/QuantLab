@@ -14,7 +14,6 @@ The project demonstrates:
 - Implementation of algorithmic trading strategies
 - Portfolio management and performance metrics
 - Visualization of trading results
-- Optional ML-based predictions for strategy enhancement
 
 This project is designed to showcase quantitative and programming skills relevant to roles in quantitative research, algorithmic trading, and data analysis.
 
@@ -25,11 +24,9 @@ This project is designed to showcase quantitative and programming skills relevan
 - Modular backtesting engine with portfolio tracking
 - Support for multiple strategies:
   - Moving Average Crossover
-  - RSI Strategy (optional)
+  - Bollinger Bands strategy
 - Performance metrics: cumulative P&L, Sharpe ratio, maximum drawdown
 - Visualizations of trades vs. asset price
-- Optional ML integration for predicting short-term price movements
-
 ---
 
 ## Installation
