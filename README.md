@@ -68,6 +68,13 @@ engine.print_metrics()
 engine.plot_results()
 ```
 
+## Example Results
+
+The framework currently supports multiple strategies, including Moving Average and Bollinger Bands.
+Below is a comparison of both strategies backtested on AAPL:
+
+![Strategy Comparison](notebooks/example_plot.png)
+
 ### Jupyter Notebook
 
 Open `notebooks/exploration.ipynb` to explore EDA, strategy simulations, and visualization of results.
